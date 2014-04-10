@@ -1,14 +1,14 @@
 <?php
 /**
  * Plugin Name:       ESC to Edit/View
- * Plugin URI:        http://github.com/twinbrother/esc-to-edit-view
+ * Plugin URI:        http://github.com/twinbrother/wp-esc-to-view-edit
  * Description:       Press ESC to edit any post/page
  * Version:           1.0.0
  * Author:            Taran Hubbert
  * Author URI:        http://twinbrother.com.au
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * GitHub Plugin URI: https://github.com/twinbrother/esc-to-edit-view
+ * GitHub Plugin URI: https://github.com/twinbrother/wp-esc-to-view-edit
  */
 /*  Copyright YEAR  PLUGIN_AUTHOR_NAME  (email : PLUGIN AUTHOR EMAIL)
 
